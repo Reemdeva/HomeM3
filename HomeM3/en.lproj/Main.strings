@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "Shop Masterpiec"; ObjectID = "45T-uR-E9u"; */
+"45T-uR-E9u.text" = "Shop Masterpiec";
+
+/* Class = "UILabel"; text = "Exchange Artwork "; ObjectID = "Dqk-Yl-wq4"; */
+"Dqk-Yl-wq4.text" = "Exchange Artwork ";
+
+/* Class = "UILabel"; text = "View All"; ObjectID = "EBW-Tp-JpD"; */
+"EBW-Tp-JpD.text" = "View All";
+
+/* Class = "UILabel"; text = "Alany"; ObjectID = "GCf-1v-2kq"; */
+"GCf-1v-2kq.text" = "Alany";
+
+/* Class = "UINavigationItem"; title = "Inspire me!"; ObjectID = "Pdi-R4-r1B"; */
+"Pdi-R4-r1B.title" = "Inspire me!";
+
+/* Class = "UILabel"; text = "Early sketch for \nwomen artpiece\n"; ObjectID = "VNb-tm-dTz"; */
+"VNb-tm-dTz.text" = "Early sketch for \nwomen artpiece\n";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "XGi-07-nC4"; */
+"XGi-07-nC4.text" = "Label";
+
+/* Class = "UILabel"; text = "Women"; ObjectID = "Xi6-L2-tae"; */
+"Xi6-L2-tae.text" = "Women";
+
+/* Class = "UILabel"; text = "View All"; ObjectID = "brC-5M-XGt"; */
+"brC-5M-XGt.text" = "View All";
+
+/* Class = "UILabel"; text = "Lend"; ObjectID = "tf9-lm-0Ph"; */
+"tf9-lm-0Ph.text" = "Lend";
+
+/* Class = "UIButton"; configuration.title = "Nature"; ObjectID = "twp-y1-eRB"; */
+"twp-y1-eRB.configuration.title" = "Nature";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "twp-y1-eRB"; */
+"twp-y1-eRB.normalTitle" = "Button";
